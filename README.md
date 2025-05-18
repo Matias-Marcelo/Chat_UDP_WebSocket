@@ -6,7 +6,7 @@ Este proyecto implementa dos sistemas de chat en tiempo real desarrollados en Un
    
 En Node.js (servidor):
 Usamos la librería ws:
-## npm install ws
+`npm install ws`
 
 ## 📋 Tabla de Contenidos
 

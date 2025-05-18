@@ -90,7 +90,7 @@ Se comunica con un servidor Node.js mediante WebSockets para:
   - Comunicación con API backend para autenticación
   - Almacenamiento de datos de usuario en PlayerPrefs
 
-> **¡IMPORTANTE!** Para acceder al canvas de menú, es necesario completar el proceso de login. Los usuarios predeterminados son "user a" y "user b". Esta autenticación es obligatoria para poder utilizar cualquiera de los sistemas de chat.
+> **¡IMPORTANTE!** Para acceder al canvas de menú, es necesario completar el proceso de login. Los usuarios predeterminados son user "a" y user "b". Esta autenticación es obligatoria para poder utilizar cualquiera de los sistemas de chat.
 
 ## 💬 Comandos Disponibles
 
